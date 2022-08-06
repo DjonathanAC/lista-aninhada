@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+    <head>
+        <title>lista aninhada</title>
+    </head>
+    <body>
+        <ul>
+            <li>café</li>
+            <li>chá
+                <ul>
+                    <li>chá preto</li>
+                    <li>chá verde</li>
+                </ul>
+            </li>
+            <li> leite</li>
+        </ul>
+    </body>
+</html> 
